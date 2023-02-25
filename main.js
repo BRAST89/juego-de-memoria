@@ -8,9 +8,9 @@ let segundoResultado = null;
 let movimientos = 0;
 let aciertos = 0;
 let temporizador = false;
-let timer = 50;
+let timer = 40;
 let tiempoRegresivo = null;
-let timerInicial = 50;
+let timerInicial = 40;
 
 let winAudio =new Audio('./audios/win.wav');
 let loseAudio =new Audio('./audios/lose.wav');
